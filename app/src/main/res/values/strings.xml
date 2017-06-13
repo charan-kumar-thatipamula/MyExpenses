@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">My Expenses</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dbhelper">DBHelper</string>
+    <string name="Purpose">Enter Notes</string>
+    <string name="home">Home</string>
+    <string name="display_expenses">Display Expenses</string>
+    <string name="title_activity_display_expenses">DisplayExpenses</string>
+    <string name="expense">Expense</string>
+    <string name="notes">Notes for expense</string>
+    <string name="heading1">Enter your expense below</string>
+    <string name="submitExpense">Submit Expense</string>
+    <string name="expenseType">Expense Type</string>
+    <string name="expenseAmount">Expense Amount</string>
+    <string name="expenseNotes">Notes</string>
+    <string-array name="expense_type_array">
+        <item>Home Expenses</item>
+        <item>To Mom</item>
+        <item>To Dad</item>
+        <item>Shopping</item>
+        <item>Parties</item>
+        <item>Movies</item>
+        <item>Miscellaneous</item>
+    </string-array>
+    <string-array name="months_array">
+        <item>-All-</item>
+        <item>January</item>
+        <item>Febriary</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string name="title_activity_modified_enter_details">ModifiedEnterDetails</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+</resources>
