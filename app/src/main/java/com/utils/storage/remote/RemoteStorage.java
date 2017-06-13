@@ -45,6 +45,4 @@ public class RemoteStorage implements StorageUtil{
 
         return httpConn;
     }
-
-
 }
